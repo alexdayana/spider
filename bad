@@ -1,0 +1,65 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7522731665883717/7707815037",
+			"native": "ca-app-pub-7522731665883717/2729168135",
+			"interstitial": "ca-app-pub-7522731665883717/5081651692"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1600508-3",
+			"native": "R-M-1600508-2",
+			"interstitial": "R-M-1600508-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.spider1.thieftoo",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [
+{
+"title": "Guide 1",
+"description": " Need to know when it's time to pretend you're sick so you can play Starfield, what consoles you can play Elden Ring on, or what under-the-radar indie titles you should pick up during your next gaming lull? Well then, you've come to the right place! We've rounded up a comprehensive list of just about every game headed your way in 2022--as well as the ones already released and the platforms you can play them on--in hopes of making your life a little bit easier and giving you even more time to get gaming." 
+},
+		{
+"title": "Guide 2",
+"description": "While several of these titles are currently "to be announced," rest assured we're keeping several eyes on them and will be sure update this list with proper release dates as soon as they're available. Here's hoping for another year filled with great games and very few delays! And if a game is delayed, we'll be sure to update its date here, as well.  "
+		},
+		{
+"title": "Guide 3",
+"description": "The sheer array of new games dropping in 2022 and beyond is pretty staggering, and with the E3 2022 schedule looking set to drop some more reveals and announcements, this list is going to get a lot busier in the coming months.    "
+		},
+		{
+"title": "Guide 4  ",
+"description": "We are already blessed with some top-notch upcoming games, with plenty of releases this year alone coming to PS5, Xbox Series X/S, PC, and Switch. This list brings together our pick of the most exciting new games on the horizon that you should have on your radar. If you're looking for a comprehensive rundown of all the new games inbound, you can also check out our handy video game release dates roundup, which is regularly updated, too.   "
+		},
+		{
+"title": "Guide 5",
+"description": "Take up the role of Ash Williams and his friends in this co-op and PvP shooter. You play as a team of four, working to survive by exploring, looting, finding key items to seal up the break between worlds, and also managing your fear. It's a game inspired by all three of the Evil Dead films, as well as the Ash vs Evil Dead TV show.   "
+		}
+	]
+}
